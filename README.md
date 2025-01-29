@@ -1,8 +1,8 @@
-# Car Dashboard Interface Web Application
+# Car Dashboard Web Application
 
 ## Description
 
-This is a custom Car Dashboard interface web application that provides a user-friendly experience for interacting with various features on a mobile device. The interface is built using HTML, CSS, and JavaScript, with SVG icons for visual elements.
+This is a custom Car Dashboard web application that provides a user-friendly experience for interacting with various features on a mobile device. The interface is built using HTML, CSS, and JavaScript, with SVG icons for visual elements.
 
 ## Features
 
