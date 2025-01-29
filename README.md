@@ -19,6 +19,6 @@ This is a custom mobile interface web application that provides a user-friendly 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
+1. Clone the repository: `git clone https://github.com/Varun-r19/Choched-Internship-Car-Dashboard-Frontend`
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in a web browser to see the interface in action.
